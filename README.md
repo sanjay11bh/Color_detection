@@ -1,1 +1,1 @@
-# Color_detection
+# To detect color of object given
