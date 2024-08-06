@@ -1,1 +1,1 @@
-# To detect color of object given
+# To detect color of object given (yellow)
